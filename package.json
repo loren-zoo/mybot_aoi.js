@@ -1,0 +1,20 @@
+{
+  "name": "allhere-vperso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.music": "^2.2.1",
+    "@akarui/aoi.panel": "^0.0.4",
+    "@discordjs/voice": "^0.16.0",
+    "aoi.js": "^5.5.5",
+    "discord.js": "^14.9.0",
+    "leaf-utils": "^1.1.3"
+  }
+}
