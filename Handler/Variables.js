@@ -76,6 +76,7 @@ msg:"0",
 spamwarn:"0",
 wlspam:"deny",
 spamlist:"",
+spam:"mute",
 
 
 antinew:"false",
