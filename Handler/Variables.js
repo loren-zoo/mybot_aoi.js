@@ -12,7 +12,16 @@ footerall:"by axe#1111",
 
 owner:"",
 wl:"",
-
+  
+embedID:"",
+authorurl:"",
+authore:"",
+thumbnail:"",
+image:"",
+description:"",
+titre:"",
+theme:"",
+footer:"",
 
 
 //logs
