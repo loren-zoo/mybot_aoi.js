@@ -23,7 +23,6 @@ $log[Informations
 
 
 `})
-// $sendWebhookMessage[1094982310123815053;SMeHUvndVM9GyqUZy9ASDzgLru6_ofKIUFzGOVXUtzQmmi9heoLHjg-CkBtuYIpBEJZT;\`$username[$clientid]\` viens de se connecter ! <@$getvar[buyerID]>]
 
 const voice = new AoiVoice(bot, {
   searchOptions: {
